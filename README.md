@@ -10,6 +10,10 @@
 
 ---
 
+<p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGJjeHhrYXF1NnM0ZDh0bGdmazVlend6b2MwZGZ2ZmtkYzRmNmtraSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kjETcOXKdbYLS/giphy.gif" width="650" alt="Cyberpunk Coding Vibes" />
+</p>
+
 ## 🧠 About Me
 
 - Software Engineer (Undergrad)
@@ -49,8 +53,22 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=58A6FF&center=true&vCenter=true&width=500&lines=Code.+Sleep.+Repeat.;Competitive+Programming+Grind;Future+AI+Engineer;Gaming+Mode+ON" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=58A6FF&center=true&vCenter=true&width=600&lines=Code.+Sleep.+Repeat.;Competitive+Programming+Grind;Future+AI+Engineer;Gaming+Mode+ON;Hacking+the+Matrix;Black+Cat+Coding;Neon+Lights+ON" alt="Typing SVG" />
 </p>
+
+<br>
+
+<h2 align="center">🐍 My Contribution Snake</h2>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ridwan-Rythm/Ridwan-Rythm/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ridwan-Rythm/Ridwan-Rythm/output/github-snake.svg">
+    <img src="https://raw.githubusercontent.com/Ridwan-Rythm/Ridwan-Rythm/output/github-snake.svg" alt="GitHub Snake Animation" style="min-width: 100%;"/>
+  </picture>
+</div>
+
+<br>
 
 <p align="center">
   <i>"Stay consistent. Skill builds quietly."</i>
