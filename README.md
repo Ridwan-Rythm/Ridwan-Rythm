@@ -1,66 +1,112 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=kanye&color=00ffcc&height=150&section=header&text=RIDWAN%20RYTHM&fontSize=50&animation=fadeIn" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHJscXNiaXp6bmN4Z3JiaHphNXJrdzVwZ2V6Ynd6bmN4Z3JiaHphJmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
-  <br>
-  <i>"Compiling code by day, optimizing my Arch Linux setup by night."</i>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&text=RIDWAN%20RYTHM&fontColor=00F7F7&fontSize=50&fontAlignY=40&desc=SOFTWARE%20ENGINEERING%20STUDENT&descAlignY=60&descSize=20" />
 
----
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&repeat=true&width=800&lines=Competitive+Programmer;AI+/+ML+Enthusiast;Arch+Linux+Rice+Enthusiast;Robotics+Tinkerer)](https://git.io/typing-svg)
 
-### 🕹️ Player Profile: **Ridwan**
-- **Current Quest:** Sophomore Year @ Daffodil International University 🎓
-- **Main Class:** Competitive Programmer (C++ Main) ⚔️
-- **Sub-Class:** AI/ML Enthusiast & Robotics Tinkerer 🤖
-- **OS Environment:** Arch Linux | KDE Plasma | Hyprland 🐧
-- **Current Gear:** RTX 3060 Ti | ASRock B550M Pro4 🖥️
+</div>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-### 🛠️ Inventory (Tech Stack)
-**Languages & Core**
-<p align="left">
-  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+## 🕹️ Player Character Sheet
+
+<div align="center">
+
+| Quest Stage | Primary Class | Skill Tree | Environment |
+| :--- | :--- | :--- | :--- |
+| **Sophomore** | **CP / C++** | **AI & Robotics** | **Arch Linux** |
+| @ Daffodil Int. University | ⚔️ Competitive Coding | 🤖 Hardware & ML | 🐧 Hyprland / KDE |
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## 💻 Technical Inventory (Tech Stack)
+
+<div align="center">
+
+### Core Programming
+<p>
+  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
 </p>
 
-**Data & Design**
-<p align="left">
+### Development Tools
+<p>
+  <img src="https://img.shields.io/badge/LINUX-blue?style=for-the-badge&logo=arch-linux&labelColor=white&logoColor=1793D1" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
 </p>
 
----
+</div>
 
-### 🚀 Main Quests (Current Projects)
-- 📡 **Water Filter Level Detector:** Arduino-based sonar system with 7-segment display feedback.
-- 📈 **CP Library:** My personal C++ template optimized for competitive programming.
-- 🧠 **AI/ML Path:** Exploring neural networks and predictive modeling.
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
----
+## 📊 Leveling Progress (GitHub Stats)
 
-### 🏆 Achievement Unlocked (GitHub Stats)
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=Ridwan-Rythm&theme=tokyonight&show_icons=true&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Ridwan-Rythm&theme=tokyonight&layout=compact&hide_border=true" width="48%" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=tokyonight&show_icons=true&hide_border=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Ridwan-Rythm&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&custom_title=Activity%20Map&bg_color=0D1117&color=00F7F7&line=00F7F7&point=FFFFFF&area_color=00F7F7&area=true&hide_border=true" width="100%" />
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-### 🌐 Connect with the Terminal
+## 🚀 Active Quests (Featured Projects)
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+### 🌊 Water Filter Level Detector
+**Tech Stack:** Arduino, Sonar Sensors
+
+A hardware project using an Arduino Uno to monitor water levels with real-time feedback on a 7-segment display.
+
+[![View](https://img.shields.io/badge/View-Repo-00F7F7?style=for-the-badge&logo=github)](https://github.com/YOUR_USERNAME/water-filter-detector)
+
+</td>
+<td width="50%">
+
+### 🏆 CP Template Library
+**Tech Stack:** C++, PBDS
+
+My personal library for competitive programming featuring optimized C++ macros and data structures.
+
+[![View](https://img.shields.io/badge/View-Repo-00F7F7?style=for-the-badge&logo=github)](https://github.com/YOUR_USERNAME/cp-templates)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## 🌐 Establish Connection
+
 <p align="center">
-  <a href="https://discord.gg/ridwan_rythm"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" /></a>
-  <a href="https://facebook.com/ARSRythm"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" /></a>
+  <a href="https://www.facebook.com/ARSRythm/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  &nbsp;
+  <a href="mailto:rythm3472@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  &nbsp;
+  <a href="https://discord.gg/ridwan_rythm"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ridwan-Rythm&color=00ffcc&style=flat-square&label=PROFILE+VIEWS" />
-</p>
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=00F7F7&style=for-the-badge&label=TERMINAL+SESSIONS)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHJscXNiaXp6bmN4Z3JiaHphNXJrdzVwZ2V6Ynd6bmN4Z3JiaHphJmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+</div>
