@@ -5,12 +5,6 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ridwan-Rythm&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Ridwan-Rythm?style=for-the-badge&color=58a6ff&labelColor=1a1b27&label=FOLLOWERS" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/Ridwan-Rythm?style=for-the-badge&color=58a6ff&labelColor=1a1b27&label=TOTAL+STARS" alt="Stars" />
-</p>
-
-<p align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGJjeHhrYXF1NnM0ZDh0bGdmazVlend6b2MwZGZ2ZmtkYzRmNmtraSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kjETcOXKdbYLS/giphy.gif" width="650" alt="Cyberpunk Coding Vibes" />
 </p>
 
@@ -74,14 +68,19 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ridwan-Rythm&theme=tokyo-night&bg_color=00000000&hide_border=true&color=58a6ff&line=58a6ff&point=c9d1d9" alt="GitHub Activity Graph" />
 </p>
 
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ridwan-Rythm&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Ridwan-Rythm?style=for-the-badge&color=58a6ff&labelColor=1a1b27&label=FOLLOWERS" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/Ridwan-Rythm?style=for-the-badge&color=58a6ff&labelColor=1a1b27&label=TOTAL+STARS" alt="Stars" />
+</p>
+
+
 ## 🏆 Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Ridwan-Rythm&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=58A6FF&center=true&vCenter=true&width=600&lines=Code.+Sleep.+Repeat.;Competitive+Programming+Grind;Future+AI+Engineer;Gaming+Mode+ON;Hacking+the+Matrix;Black+Cat+Coding;Neon+Lights+ON" alt="Typing SVG" />
-</p>
 
 ## 🐍 My Contribution Snake
 <div align="center">
