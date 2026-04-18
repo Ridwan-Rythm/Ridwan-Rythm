@@ -75,13 +75,6 @@
   <img src="https://img.shields.io/github/stars/Ridwan-Rythm?style=for-the-badge&color=58a6ff&labelColor=1a1b27&label=TOTAL+STARS" alt="Stars" />
 </p>
 
-
-## 🏆 Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ridwan-Rythm&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
-</p>
-
-
 ## 🐍 My Contribution Snake
 <div align="center">
   <picture>
