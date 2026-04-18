@@ -45,6 +45,10 @@
   <a href="https://github.com/Ridwan-Rythm/FoodOrderingSystem">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ridwan-Rythm&repo=FoodOrderingSystem&theme=tokyonight&hide_border=true" alt="Food Ordering System" />
   </a>
+  
+  <a href="https://github.com/Ridwan-Rythm/My-Portfolio-Demo-fun-project-">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ridwan-Rythm&repo=My-Portfolio-Demo-fun-project&theme=tokyonight&hide_border=true" alt="Project 2" />
+  </a>
   <!-- Add your second repo below once you have one -->
   <!--
   <a href="https://github.com/Ridwan-Rythm/YOUR-NEXT-REPO">
