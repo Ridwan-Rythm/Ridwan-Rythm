@@ -72,11 +72,11 @@
 ## 🐍 My Contribution Snake
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ridwan-Rythm/Ridwan-Rythm/main/dist/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ridwan-Rythm/Ridwan-Rythm/main/dist/github-snake.svg">
-    <img src="https://raw.githubusercontent.com/Ridwan-Rythm/Ridwan-Rythm/main/dist/github-snake.svg" alt="GitHub Snake Animation" style="min-width: 100%;"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ridwan-Rythm/Ridwan-Rythm/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ridwan-Rythm/Ridwan-Rythm/output/github-snake.svg">
+    <img src="https://raw.githubusercontent.com/Ridwan-Rythm/Ridwan-Rythm/output/github-snake.svg" alt="GitHub Snake Animation" style="min-width: 100%;"/>
   </picture>
-</div>
+</div>>
 
 <p align="center">
   <i>"Stay consistent. Skill builds quietly."</i>
