@@ -57,10 +57,6 @@
   -->
 </p>
 
-<p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGJjeHhrYXF1NnM0ZDh0bGdmazVlend6b2MwZGZ2ZmtkYzRmNmtraSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kjETcOXKdbYLS/giphy.gif" width="280" alt="Pixel Cyberpunk Animation" />
-</p>
-
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ridwan-Rythm&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=c9d1d9" alt="GitHub Stats" />
