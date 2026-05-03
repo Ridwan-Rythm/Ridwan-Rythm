@@ -35,10 +35,10 @@
 
 <p align="center">
   <a href="https://codeforces.com/profile/rythm420">
-    <img src="https://img.shields.io/badge/Codeforces-YOUR__HANDLE-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
+    <img src="https://img.shields.io/badge/Codeforces-rythm420-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
   </a>
   <a href="https://leetcode.com/u/ridwan_rythm/">
-    <img src="https://img.shields.io/badge/LeetCode-YOUR__HANDLE-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+    <img src="https://img.shields.io/badge/LeetCode-ridwan_rythm-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
   </a>
 </p>
 
