@@ -1,7 +1,7 @@
 <h1 align="center">Ridwan Rythm</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Software+Engineering+Undergrad;Competitive+Programmer;AI+%2F+ML+Enthusiast" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Software+Engineering+Undergrad;Competitive+Programmer;AI+%2F+ML+Learner" alt="Typing Animation" />
 </p>
 
 <p align="center">
@@ -75,13 +75,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ridwan-Rythm&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&count_private=true" alt="GitHub Stats" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ridwan-Rythm&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ridwan-Rythm&theme=tokyo-night&bg_color=0d1117&hide_border=true&color=58a6ff&line=58a6ff&point=c9d1d9" alt="Activity Graph" />
+  <img src="https://ghchart.rshah.org/58a6ff/Ridwan-Rythm" alt="GitHub Contribution Chart" />
 </p>
 
 ---
