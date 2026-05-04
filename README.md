@@ -1,7 +1,7 @@
 <h1 align="center">Ridwan Rythm</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Software+Engineering+Undergrad;Competitive+Programmer;AI+%2F+ML+Learner" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Software+Engineering+Undergrad;Competitive+Programmer;AI+%2F+ML+Enthusiast" alt="Typing Animation" />
 </p>
 
 <p align="center">
