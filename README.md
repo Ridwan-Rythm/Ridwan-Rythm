@@ -8,6 +8,10 @@
 
 <br/>
 
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGJjeHhrYXF1NnM0ZDh0bGdmazVlend6b2MwZGZ2ZmtkYzRmNmtraSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kjETcOXKdbYLS/giphy.gif" width="480" alt="Coding" />
+
+<br/>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ridwan-rythm-325b96347/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rythm3472@gmail.com)
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/rythm420)
